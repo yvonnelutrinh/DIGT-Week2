@@ -1,0 +1,9 @@
+*{
+    margin: .375rem;
+    padding: .375rem;
+}
+
+h1{
+    color: white;
+    background-color: cadetblue;
+}
